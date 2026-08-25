@@ -1,17 +1,17 @@
-# Hi there, I'm Rootcess 👋
+# Hi there, I'm Rootcess
 
-### 🛡️ Secure Fullstack & AI Developer | Cybersecurity Student
+### Secure Fullstack & AI Developer | Cybersecurity Student
 
 I am a Fullstack Web Developer and Cybersecurity undergraduate passionate about building scalable, high-performance, and AI-powered web applications with **Security-by-Design** principles.
 
 ---
 
-### 💫 About Me:
-- 🎓 **Education:** Cybersecurity Engineering Student (3rd Semester)
-- 🚀 **Building:** ScoutID (National Sports Platform) & Islamic Boarding School Management System
-- 💼 **Proven Experience:** Developed Web, Mobile, and Desktop systems for **Jogja Medical Center**
-- 🔒 **Focus:** Secure Web Development, Penetration Testing Awareness, AI Integration
-- ⚡ **Fun Fact:** I design fullstack applications with dual-database architecture (SQL & NoSQL) while ensuring no low-hanging security vulnerabilities.
+### About Me:
+- **Education:** Cybersecurity Engineering Student (3rd Semester)
+- **Building:** ScoutID (National Sports Platform) & Islamic Boarding School Management System
+- **Proven Experience:** Developed Web, Mobile, and Desktop systems for **Jogja Medical Center**
+- **Focus:** Secure Web Development, Penetration Testing Awareness, AI Integration
+- **Fun Fact:** I design fullstack applications with dual-database architecture (SQL & NoSQL) while ensuring no low-hanging security vulnerabilities.
 
 ---
 
@@ -36,13 +36,7 @@ I am a Fullstack Web Developer and Cybersecurity undergraduate passionate about 
 
 ---
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 
 ![Rootcess's GitHub stats](https://github-readme-stats.vercel.app/api?username=tb245950-wq&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tb245950-wq&layout=compact&theme=dark)
-
----
-
-### 📫 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username-kamu)
