@@ -15,7 +15,7 @@ I am a Fullstack Web Developer and Cybersecurity undergraduate passionate about 
 
 ---
 
-### 💻 Tech Stack & Tools:
+### Tech Stack & Tools:
 
 **Backend & Core:**
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -36,7 +36,5 @@ I am a Fullstack Web Developer and Cybersecurity undergraduate passionate about 
 
 ---
 
-### GitHub Stats:
-
-![Rootcess's GitHub stats](https://github-readme-stats.vercel.app/api?username=tb245950-wq&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tb245950-wq&layout=compact&theme=dark)
+### Portofolio Website
+https://porto-new-liard.vercel.app/
